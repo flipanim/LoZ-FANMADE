@@ -1,5 +1,5 @@
 # LOZ-FANMADE
-A project for making a fanmade Legend of Zelda game. THIS IS ENTIRELY FANMADE. NO MONEY SHOULD BE MADE FROM THIS.
+A project for making a fanmade Legend of Zelda game. LET ME MAKE IT CLEAR, WHILE THIS IS PERFECTLY LEGAL (AS LONG AS WE MAKE NO MONEY FROM IT), NINTENDO FROWNS UPON IT.
 
 What we are looking for:
 
