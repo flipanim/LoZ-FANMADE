@@ -15,4 +15,5 @@ What we are looking for:
 
 Comment below on what you would like to do.
 
-Comment below on what you would like to do. i can code,i can direct and i can help make the game in unity(maybe) - guinea7pig 9-19-23 5:11:15
+Comment below on what you would like to do.
+I can code, i can direct and I can help make the game in unity(maybe) - guinea7pig 9-19-23 5:11:15
