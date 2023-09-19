@@ -3,7 +3,7 @@ A project for making a fanmade Legend of Zelda game. LET ME MAKE IT CLEAR, WHILE
 
 What we are looking for:
 
-•People who can code
+•People who can code [Guinea7pig]
 
 •People who can help develop story and plot
 
@@ -11,9 +11,9 @@ What we are looking for:
 
 •People who can help write music [I kind of have that covered]
 
-•People who can help direct
+•People who can help direct [Guinea7pig]
 
 Comment below on what you would like to do.
 
-Comment below on what you would like to do.
-I can code, i can direct and I can help make the game in unity(maybe) - guinea7pig 
+
+ 
